@@ -1,2 +1,2 @@
-# ReactKurs-al-malar-
+# ReactKurs
 React
